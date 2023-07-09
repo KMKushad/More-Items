@@ -1,0 +1,9 @@
+name: MoreItems
+version: '$1.0'
+main: me.kmkushad.spigotplugin.MoreItems
+api-version: '1.19'
+commands:
+  create:
+    description:
+      How to generate the items in the MoreItems plugin.
+    usage: /<command> <item>
